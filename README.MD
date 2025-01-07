@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Spoorthi.J</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a dedicated Computer Science Engineering student from India with a strong passion for emerging technologies. My areas of interest include Artificial Intelligence and Machine Learning, Cloud Computing, Database Management Systems, and Cybersecurity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spoorthj" alt="spoorthj" /></a> </p>
+<p align="left"> <a href="https://github.com/SPOORTHJ"><img src="C:\users\spoor\Downloads\me5.jpg" alt="spoorthj" /></a> </p>
 
 - 🔭 I’m currently working on [Real Time Chat Communication Web Application](https://github.com/SPOORTHJ/Real_Time_Chat_Communication_Web_Application)
 
